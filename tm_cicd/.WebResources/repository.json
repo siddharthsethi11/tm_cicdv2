@@ -1,0 +1,7 @@
+{
+    "records": [],
+    "resources": [{
+        "location": "Service Descriptors/tm_cicd.Process-Resource.json",
+        "type": "generated"
+    }]
+}

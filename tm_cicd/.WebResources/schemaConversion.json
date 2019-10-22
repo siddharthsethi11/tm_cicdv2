@@ -1,0 +1,5 @@
+{"records": [{
+    "jsonSchemaLocation": "/tm_cicd/Service Descriptors/tm_cicd.Process-Resource.json",
+    "conversionType": "linked",
+    "xsdSchemaTargetNamespace": "http://www.example.com/namespaces/tns/1571729564387"
+}]}
